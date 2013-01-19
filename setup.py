@@ -3,7 +3,7 @@ import setuptools
 
 setup(
     name='django-dajaxice',
-    version='0.5.4.1f',
+    version='0.5.4.1g',
     author='Jorge Bastida',
     author_email='me@jorgebastida.com',
     description='Agnostic and easy to use ajax library for django',
