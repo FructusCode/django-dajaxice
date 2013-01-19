@@ -7,5 +7,5 @@
     {% endwith %}
     {% if not forloop.last %},{% endif %}
     {% endfor %}
-    }
+    },
     {% endwith %}
